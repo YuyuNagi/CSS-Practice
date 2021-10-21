@@ -10,7 +10,12 @@
 ### join page : 
 ![alert text][join]
 
+#### 參考:
+[Web Dev Simplified - Learn How To Build A Website In 1 Hour!][reference]
+
+
 
 [index]: https://media.discordapp.net/attachments/550153307960639500/900570458582310952/Soundwave_-_Google_Chrome_2021_10_21_10_23_07.png?width=1083&height=609
 [discover]: https://media.discordapp.net/attachments/550153307960639500/900570458280296458/Soundwave_-_Google_Chrome_2021_10_21_10_23_13.png?width=1083&height=609
 [join]: https://media.discordapp.net/attachments/550153307960639500/900570457361772554/Soundwave_-_Google_Chrome_2021_10_21_10_23_16.png?width=1083&height=609
+[reference]: https://www.youtube.com/watch?v=RZ-Oe4_Ew7g
