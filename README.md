@@ -1,13 +1,13 @@
 # CSS-Practice
 實作 HTML 的排版，並練習使用 CSS 讓整個網頁看起來更加舒適。
 
-###index page : 
+### index page : 
 ![alert text][index]
 
-###discover page : 
+### discover page : 
 ![alert text][discover]
 
-###join page : 
+### join page : 
 ![alert text][join]
 
 
